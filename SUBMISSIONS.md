@@ -1,6 +1,6 @@
 # Submission Stats
 
-> Auto-generated report. Last updated: 2026-06-29 07:59 UTC
+> Auto-generated report. Last updated: 2026-06-29 08:39 UTC
 >
 > A student counts as having submitted an assignment if a matching folder exists under their directory in `submissions/`.
 
@@ -13,7 +13,7 @@
 - Assignment 1: **84 sent**, **2 not sent** (out of 86)
 - Assignment 2: **74 sent**, **12 not sent** (out of 86)
 - Assignment 3: **50 sent**, **36 not sent** (out of 86)
-- Assignment 4: **2 sent**, **84 not sent** (out of 86)
+- Assignment 4: **3 sent**, **83 not sent** (out of 86)
 
 ---
 
@@ -73,7 +73,7 @@
 - **kurebere1** — sent assignment 1, assignment 2, assignment 3; did not send assignment 4
 - **MahdiDevSo** — sent assignment 1, assignment 2; did not send assignment 3, assignment 4
 - **maria-Kayse** — sent assignment 1, assignment 2, assignment 3; did not send assignment 4
-- **mariahersi** — sent assignment 1, assignment 2, assignment 3; did not send assignment 4
+- **mariahersi** — sent assignment 1, assignment 2, assignment 3, assignment 4; submitted all tracked assignments
 - **marshaale** — sent assignment 1, assignment 2, assignment 3; did not send assignment 4
 - **maryamocalimaxamed410-gif** — sent assignment 1; did not send assignment 2, assignment 3, assignment 4
 - **maryan-dev** — sent assignment 1, assignment 2, assignment 3; did not send assignment 4
@@ -169,7 +169,7 @@
 35. sicid24
 36. zakaria965
 
-### Assignment 4 (84 not sent)
+### Assignment 4 (83 not sent)
 
 1. abdalegurey
 2. abdi-bashiir
@@ -223,35 +223,34 @@
 50. kurebere1
 51. MahdiDevSo
 52. maria-Kayse
-53. mariahersi
-54. marshaale
-55. maryamocalimaxamed410-gif
-56. maryan-dev
-57. maxamadcarab63-hue
-58. maxamadibrahim2022-creator
-59. miskipea-gif
-60. MoAbdi358
-61. moelkenzi
-62. mohadaacad
-63. Mohamed-Ali-Shoble
-64. mohamed-hagi
-65. Mohamed-Jaah
-66. mohanuur117-jpg
-67. MUHIYADIN2025
-68. Mukhtar-kaariye
-69. muna-adam
-70. nastehoabdiaden46-a11y
-71. nimco-nuur
-72. nuunedotdev
-73. Qase0906
-74. rahma-88
-75. sakijamac4-lab
-76. saynis
-77. SeadAbdirizak01
-78. Shiine252
-79. shiine89
-80. sicid24
-81. Spalpha
-82. xanaa-ayan
-83. Yahye-Tech
-84. zakaria965
+53. marshaale
+54. maryamocalimaxamed410-gif
+55. maryan-dev
+56. maxamadcarab63-hue
+57. maxamadibrahim2022-creator
+58. miskipea-gif
+59. MoAbdi358
+60. moelkenzi
+61. mohadaacad
+62. Mohamed-Ali-Shoble
+63. mohamed-hagi
+64. Mohamed-Jaah
+65. mohanuur117-jpg
+66. MUHIYADIN2025
+67. Mukhtar-kaariye
+68. muna-adam
+69. nastehoabdiaden46-a11y
+70. nimco-nuur
+71. nuunedotdev
+72. Qase0906
+73. rahma-88
+74. sakijamac4-lab
+75. saynis
+76. SeadAbdirizak01
+77. Shiine252
+78. shiine89
+79. sicid24
+80. Spalpha
+81. xanaa-ayan
+82. Yahye-Tech
+83. zakaria965
